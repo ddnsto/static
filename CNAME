@@ -1,1 +1,0 @@
-cdn.dnsto.cc
